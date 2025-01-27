@@ -1,16 +1,21 @@
-﻿namespace BlazerSoft_SlotMachine.BlazerSoft_SlotMachine_Infrastructure
+﻿namespace BlazerSoft_SlotMachine.Models
 {
     public class SlotConfiguration
     {
         private ObjectId _id;
-        private int reelWidth;
-        private int reelHeight;
+        public int reelWidth;
+        public int reelHeight;
         private string name;
         public SlotConfiguration() { }
         public SlotConfiguration(int reelWidth, int reelHeight)
         {
             this.reelWidth = reelWidth;
             this.reelHeight = reelHeight;
+        }
+
+        public string GetName()
+        {
+            return name;
         }
     }
 }

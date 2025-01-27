@@ -1,9 +1,17 @@
 ﻿using System;
 
-public class Class1
+namespace BlazerSoft_SlotMachine
 {
-	public Class1()
+	public class SlotMachineReponse
 	{
-
+		private int[,] resultMatrix;
+		private int playerWinnings;
+		private int currentBalance;
+		public SlotMachineReponse(int[,] result, int playerWinnings, int currentBalance)
+		{
+			resultMatrix = result;
+			this.playerWinnings = playerWinnings;
+			this.currentBalance = currentBalance;
+		}
 	}
 }

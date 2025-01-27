@@ -9,5 +9,7 @@ namespace BlazerSoft_SlotMachine_Infrastructure
         public Task<bool> Delete(PlayerInfo playerInfo);
         public Task<bool> UpdatePlayer(PlayerInfo playerInfo);
         public Task<PlayerInfo> GetPlayer(string playerName);
+        public Task<bool> EnoughFunds(string playerName, int amountBet);
+        public int GetBalance(string playerName);
     }
 }

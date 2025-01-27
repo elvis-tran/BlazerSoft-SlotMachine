@@ -21,7 +21,28 @@
         {
             return _playerInfoContext.Delete(playerInfo);   
         }
-        
+
+        public async Task<bool> EnoughFunds(string playerName, int amountBet)
+        {
+            var playerInfo = await _playerInfoContext.GetPlayerInfoAsync(playerName);
+
+            if ( (playerInfo.GetBalance() > amountBet) && playerInfo != null)
+            {
+                playerInfo.UpdateBalance(amountBet * (-1));
+                return await UpdatePlayer(playerInfo);
+            }
+            else
+            {
+                return false;
+            }
+        }
+
+        public int GetBalance(string playerName)
+        {
+            var playerInfo = _playerInfoContext.GetPlayerInfoAsync(playerName).Result;
+            return playerInfo.GetBalance();
+        }
+
         public Task<IEnumerable<PlayerInfo>> GetAll()
         {
             return (Task<IEnumerable<PlayerInfo>>)_playerInfoContext.players;

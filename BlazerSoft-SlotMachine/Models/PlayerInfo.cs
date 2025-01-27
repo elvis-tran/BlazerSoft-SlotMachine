@@ -3,23 +3,24 @@
     public class PlayerInfo
     {
         private ObjectId _id;
-        private string playerId { get; set; }
-        private double balance { get; set; }
-        private string playerName { get; set; }
+        public string playerId { get; set; }
+        public int balance { get; set; }
+        public string playerName { get; set; }
 
         public PlayerInfo() { }
-        public PlayerInfo(string playerId, double balance)
+        public PlayerInfo(string playerId, int balance)
         {
             this.playerId = playerId;
             this.balance = balance;
+            this.playerName = "";
         }
-
-        public string GetPlayerId()
+        public PlayerInfo(string playerId, int balance, string playerName)
         {
-            return this.playerId;
+            this.playerId = playerId;
+            this.balance = balance;
+            this.playerName = playerName;
         }
-
-        public double GetBalance()
+        public int GetBalance()
         {
             return this.balance;
         }
@@ -30,7 +31,7 @@
         }
 
         //Can be positive or negative
-        public void UpdateBalance(double updateAmount)
+        public void UpdateBalance(int updateAmount)
         {
             this.balance += updateAmount;
         }
