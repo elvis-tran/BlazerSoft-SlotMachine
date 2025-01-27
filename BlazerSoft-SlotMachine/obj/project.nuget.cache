@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y+0vBoi5awc=",
+  "dgSpecHash": "EfI0m2db85w=",
   "success": true,
-  "projectFilePath": "E:\\Projects\\BlazerSoft-SlotMachine\\BlazerSoft-SlotMachine.csproj",
+  "projectFilePath": "E:\\Projects\\BlazerSoft\\BlazerSoft-SlotMachine\\BlazerSoft-SlotMachine.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\elvis\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\elvis\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

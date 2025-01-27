@@ -17,4 +17,14 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Using Include="BlazerSoft_SlotMachine.BlazerSoft_SlotMachine_Infrastructure" />
+    <Using Include="MongoDB.Bson" />
+    <Using Include="MongoDB.Driver" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Interfaces\" />
+  </ItemGroup>
+
 </Project>

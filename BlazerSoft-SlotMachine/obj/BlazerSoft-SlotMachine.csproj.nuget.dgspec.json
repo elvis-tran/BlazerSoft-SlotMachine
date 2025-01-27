@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\BlazerSoft-SlotMachine\\BlazerSoft-SlotMachine.csproj": {}
+    "E:\\Projects\\BlazerSoft\\BlazerSoft-SlotMachine\\BlazerSoft-SlotMachine.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\BlazerSoft-SlotMachine\\BlazerSoft-SlotMachine.csproj": {
+    "E:\\Projects\\BlazerSoft\\BlazerSoft-SlotMachine\\BlazerSoft-SlotMachine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\BlazerSoft-SlotMachine\\BlazerSoft-SlotMachine.csproj",
+        "projectUniqueName": "E:\\Projects\\BlazerSoft\\BlazerSoft-SlotMachine\\BlazerSoft-SlotMachine.csproj",
         "projectName": "BlazerSoft-SlotMachine",
-        "projectPath": "E:\\Projects\\BlazerSoft-SlotMachine\\BlazerSoft-SlotMachine.csproj",
+        "projectPath": "E:\\Projects\\BlazerSoft\\BlazerSoft-SlotMachine\\BlazerSoft-SlotMachine.csproj",
         "packagesPath": "C:\\Users\\elvis\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\BlazerSoft-SlotMachine\\obj\\",
+        "outputPath": "E:\\Projects\\BlazerSoft\\BlazerSoft-SlotMachine\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

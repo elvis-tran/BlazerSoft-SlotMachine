@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazerSoft-SlotMachine")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+328b58bd0904a4531d6551f41b19792835ddfdd9")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazerSoft-SlotMachine")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazerSoft-SlotMachine")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -11,7 +11,7 @@ namespace BlazerSoft_SlotMachine
 {
     public class SlotMachineService
     {
-        private readonly IRepository<PlayerInfoRepository<PlayerInfo>> _playerRepository;
+        private readonly IPlayerInfoRepository _playerRepository;
 
         private int reelWidth = 5;
         private int reelHeight = 3;
@@ -19,7 +19,7 @@ namespace BlazerSoft_SlotMachine
         private int defaultReelHeight = 3;
         private List<string> reelsAsString;
         public SlotMachineService() { }
-        public SlotMachineService(IRepository<PlayerInfoRepository<PlayerInfo>> playerRepository)
+        public SlotMachineService(IPlayerInfoRepository playerRepository)
         {
             _playerRepository = playerRepository; 
         }
@@ -43,6 +43,8 @@ namespace BlazerSoft_SlotMachine
         {
             //Call Repository here to retrieve configuration
             //Set reelWidth and reelHeight using those values
+
+
 
             int[,] reelMatrix = new int[reelHeight, reelWidth];
             Random rand = new Random();

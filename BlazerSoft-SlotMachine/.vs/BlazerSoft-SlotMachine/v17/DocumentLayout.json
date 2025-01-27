@@ -1,30 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Projects\\BlazerSoft-SlotMachine\\",
+  "WorkspaceRootPath": "E:\\Projects\\BlazerSoft\\BlazerSoft-SlotMachine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD1E3130-B519-43DD-8066-73EA7973E5D7}|BlazerSoft-SlotMachine.csproj|e:\\projects\\blazersoft-slotmachine\\slotmachineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD1E3130-B519-43DD-8066-73EA7973E5D7}|BlazerSoft-SlotMachine.csproj|solutionrelative:slotmachineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD1E3130-B519-43DD-8066-73EA7973E5D7}|BlazerSoft-SlotMachine.csproj|e:\\projects\\blazersoft-slotmachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD1E3130-B519-43DD-8066-73EA7973E5D7}|BlazerSoft-SlotMachine.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD1E3130-B519-43DD-8066-73EA7973E5D7}|BlazerSoft-SlotMachine.csproj|e:\\projects\\blazersoft-slotmachine\\models\\playerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FD1E3130-B519-43DD-8066-73EA7973E5D7}|BlazerSoft-SlotMachine.csproj|e:\\projects\\blazersoft\\blazersoft-slotmachine\\models\\playerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD1E3130-B519-43DD-8066-73EA7973E5D7}|BlazerSoft-SlotMachine.csproj|solutionrelative:models\\playerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD1E3130-B519-43DD-8066-73EA7973E5D7}|BlazerSoft-SlotMachine.csproj|e:\\projects\\blazersoft-slotmachine\\slotmachinerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FD1E3130-B519-43DD-8066-73EA7973E5D7}|BlazerSoft-SlotMachine.csproj|e:\\projects\\blazersoft\\blazersoft-slotmachine\\blazersoft-slotmachine-infrastructure\\playerinfocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD1E3130-B519-43DD-8066-73EA7973E5D7}|BlazerSoft-SlotMachine.csproj|solutionrelative:blazersoft-slotmachine-infrastructure\\playerinfocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1E3130-B519-43DD-8066-73EA7973E5D7}|BlazerSoft-SlotMachine.csproj|e:\\projects\\blazersoft\\blazersoft-slotmachine\\blazersoft-slotmachine-infrastructure\\slotconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD1E3130-B519-43DD-8066-73EA7973E5D7}|BlazerSoft-SlotMachine.csproj|solutionrelative:blazersoft-slotmachine-infrastructure\\slotconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1E3130-B519-43DD-8066-73EA7973E5D7}|BlazerSoft-SlotMachine.csproj|e:\\projects\\blazersoft\\blazersoft-slotmachine\\slotmachinerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD1E3130-B519-43DD-8066-73EA7973E5D7}|BlazerSoft-SlotMachine.csproj|solutionrelative:slotmachinerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD1E3130-B519-43DD-8066-73EA7973E5D7}|BlazerSoft-SlotMachine.csproj|e:\\projects\\blazersoft-slotmachine\\controllers\\slotmachinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FD1E3130-B519-43DD-8066-73EA7973E5D7}|BlazerSoft-SlotMachine.csproj|e:\\projects\\blazersoft\\blazersoft-slotmachine\\blazersoft-slotmachine-infrastructure\\slotconfigurationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD1E3130-B519-43DD-8066-73EA7973E5D7}|BlazerSoft-SlotMachine.csproj|solutionrelative:blazersoft-slotmachine-infrastructure\\slotconfigurationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1E3130-B519-43DD-8066-73EA7973E5D7}|BlazerSoft-SlotMachine.csproj|e:\\projects\\blazersoft\\blazersoft-slotmachine\\blazersoft-slotmachine-infrastructure\\configurationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD1E3130-B519-43DD-8066-73EA7973E5D7}|BlazerSoft-SlotMachine.csproj|solutionrelative:blazersoft-slotmachine-infrastructure\\configurationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1E3130-B519-43DD-8066-73EA7973E5D7}|BlazerSoft-SlotMachine.csproj|e:\\projects\\blazersoft\\blazersoft-slotmachine\\blazersoft-slotmachine-infrastructure\\interfaces\\iconfigurationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD1E3130-B519-43DD-8066-73EA7973E5D7}|BlazerSoft-SlotMachine.csproj|solutionrelative:blazersoft-slotmachine-infrastructure\\interfaces\\iconfigurationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1E3130-B519-43DD-8066-73EA7973E5D7}|BlazerSoft-SlotMachine.csproj|e:\\projects\\blazersoft\\blazersoft-slotmachine\\blazersoft-slotmachine-infrastructure\\interfaces\\iconfigurationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD1E3130-B519-43DD-8066-73EA7973E5D7}|BlazerSoft-SlotMachine.csproj|solutionrelative:blazersoft-slotmachine-infrastructure\\interfaces\\iconfigurationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1E3130-B519-43DD-8066-73EA7973E5D7}|BlazerSoft-SlotMachine.csproj|e:\\projects\\blazersoft\\blazersoft-slotmachine\\blazersoft-slotmachine-infrastructure\\interfaces\\iplayerinfocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD1E3130-B519-43DD-8066-73EA7973E5D7}|BlazerSoft-SlotMachine.csproj|solutionrelative:blazersoft-slotmachine-infrastructure\\interfaces\\iplayerinfocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1E3130-B519-43DD-8066-73EA7973E5D7}|BlazerSoft-SlotMachine.csproj|e:\\projects\\blazersoft\\blazersoft-slotmachine\\blazersoft-slotmachine-infrastructure\\interfaces\\iplayerinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD1E3130-B519-43DD-8066-73EA7973E5D7}|BlazerSoft-SlotMachine.csproj|solutionrelative:blazersoft-slotmachine-infrastructure\\interfaces\\iplayerinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1E3130-B519-43DD-8066-73EA7973E5D7}|BlazerSoft-SlotMachine.csproj|e:\\projects\\blazersoft\\blazersoft-slotmachine\\blazersoft-slotmachine-infrastructure\\playerinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD1E3130-B519-43DD-8066-73EA7973E5D7}|BlazerSoft-SlotMachine.csproj|solutionrelative:blazersoft-slotmachine-infrastructure\\playerinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1E3130-B519-43DD-8066-73EA7973E5D7}|BlazerSoft-SlotMachine.csproj|e:\\projects\\blazersoft\\blazersoft-slotmachine\\connectionsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD1E3130-B519-43DD-8066-73EA7973E5D7}|BlazerSoft-SlotMachine.csproj|solutionrelative:connectionsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1E3130-B519-43DD-8066-73EA7973E5D7}|BlazerSoft-SlotMachine.csproj|e:\\projects\\blazersoft\\blazersoft-slotmachine\\blazersoft-slotmachine.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{FD1E3130-B519-43DD-8066-73EA7973E5D7}|BlazerSoft-SlotMachine.csproj|solutionrelative:blazersoft-slotmachine.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1E3130-B519-43DD-8066-73EA7973E5D7}|BlazerSoft-SlotMachine.csproj|e:\\projects\\blazersoft\\blazersoft-slotmachine\\slotmachineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD1E3130-B519-43DD-8066-73EA7973E5D7}|BlazerSoft-SlotMachine.csproj|solutionrelative:slotmachineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1E3130-B519-43DD-8066-73EA7973E5D7}|BlazerSoft-SlotMachine.csproj|e:\\projects\\blazersoft\\blazersoft-slotmachine\\controllers\\slotmachinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD1E3130-B519-43DD-8066-73EA7973E5D7}|BlazerSoft-SlotMachine.csproj|solutionrelative:controllers\\slotmachinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD1E3130-B519-43DD-8066-73EA7973E5D7}|BlazerSoft-SlotMachine.csproj|e:\\projects\\blazersoft-slotmachine\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD1E3130-B519-43DD-8066-73EA7973E5D7}|BlazerSoft-SlotMachine.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD1E3130-B519-43DD-8066-73EA7973E5D7}|BlazerSoft-SlotMachine.csproj|e:\\projects\\blazersoft\\blazersoft-slotmachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD1E3130-B519-43DD-8066-73EA7973E5D7}|BlazerSoft-SlotMachine.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,80 +74,221 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projects\\BlazerSoft\\BlazerSoft-SlotMachine\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Projects\\BlazerSoft\\BlazerSoft-SlotMachine\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T03:35:09.64Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SlotConfigurationContext.cs",
+              "DocumentMoniker": "E:\\Projects\\BlazerSoft\\BlazerSoft-SlotMachine\\BlazerSoft-SlotMachine-Infrastructure\\SlotConfigurationContext.cs",
+              "RelativeDocumentMoniker": "BlazerSoft-SlotMachine-Infrastructure\\SlotConfigurationContext.cs",
+              "ToolTip": "E:\\Projects\\BlazerSoft\\BlazerSoft-SlotMachine\\BlazerSoft-SlotMachine-Infrastructure\\SlotConfigurationContext.cs",
+              "RelativeToolTip": "BlazerSoft-SlotMachine-Infrastructure\\SlotConfigurationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T06:29:11.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPlayerInfoRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\BlazerSoft\\BlazerSoft-SlotMachine\\BlazerSoft-SlotMachine-Infrastructure\\Interfaces\\IPlayerInfoRepository.cs",
+              "RelativeDocumentMoniker": "BlazerSoft-SlotMachine-Infrastructure\\Interfaces\\IPlayerInfoRepository.cs",
+              "ToolTip": "E:\\Projects\\BlazerSoft\\BlazerSoft-SlotMachine\\BlazerSoft-SlotMachine-Infrastructure\\Interfaces\\IPlayerInfoRepository.cs",
+              "RelativeToolTip": "BlazerSoft-SlotMachine-Infrastructure\\Interfaces\\IPlayerInfoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T06:15:02.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SlotConfiguration.cs",
+              "DocumentMoniker": "E:\\Projects\\BlazerSoft\\BlazerSoft-SlotMachine\\BlazerSoft-SlotMachine-Infrastructure\\SlotConfiguration.cs",
+              "RelativeDocumentMoniker": "BlazerSoft-SlotMachine-Infrastructure\\SlotConfiguration.cs",
+              "ToolTip": "E:\\Projects\\BlazerSoft\\BlazerSoft-SlotMachine\\BlazerSoft-SlotMachine-Infrastructure\\SlotConfiguration.cs",
+              "RelativeToolTip": "BlazerSoft-SlotMachine-Infrastructure\\SlotConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T06:16:50.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPlayerInfoContext.cs",
+              "DocumentMoniker": "E:\\Projects\\BlazerSoft\\BlazerSoft-SlotMachine\\BlazerSoft-SlotMachine-Infrastructure\\Interfaces\\IPlayerInfoContext.cs",
+              "RelativeDocumentMoniker": "BlazerSoft-SlotMachine-Infrastructure\\Interfaces\\IPlayerInfoContext.cs",
+              "ToolTip": "E:\\Projects\\BlazerSoft\\BlazerSoft-SlotMachine\\BlazerSoft-SlotMachine-Infrastructure\\Interfaces\\IPlayerInfoContext.cs",
+              "RelativeToolTip": "BlazerSoft-SlotMachine-Infrastructure\\Interfaces\\IPlayerInfoContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T05:28:40.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "SlotMachineService.cs",
-              "DocumentMoniker": "E:\\Projects\\BlazerSoft-SlotMachine\\SlotMachineService.cs",
+              "DocumentMoniker": "E:\\Projects\\BlazerSoft\\BlazerSoft-SlotMachine\\SlotMachineService.cs",
               "RelativeDocumentMoniker": "SlotMachineService.cs",
-              "ToolTip": "E:\\Projects\\BlazerSoft-SlotMachine\\SlotMachineService.cs",
+              "ToolTip": "E:\\Projects\\BlazerSoft\\BlazerSoft-SlotMachine\\SlotMachineService.cs",
               "RelativeToolTip": "SlotMachineService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABOAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-26T04:11:59.327Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Projects\\BlazerSoft-SlotMachine\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\Projects\\BlazerSoft-SlotMachine\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAEkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T03:35:09.64Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "PlayerInfo.cs",
-              "DocumentMoniker": "E:\\Projects\\BlazerSoft-SlotMachine\\Models\\PlayerInfo.cs",
+              "DocumentMoniker": "E:\\Projects\\BlazerSoft\\BlazerSoft-SlotMachine\\Models\\PlayerInfo.cs",
               "RelativeDocumentMoniker": "Models\\PlayerInfo.cs",
-              "ToolTip": "E:\\Projects\\BlazerSoft-SlotMachine\\Models\\PlayerInfo.cs",
+              "ToolTip": "E:\\Projects\\BlazerSoft\\BlazerSoft-SlotMachine\\Models\\PlayerInfo.cs",
               "RelativeToolTip": "Models\\PlayerInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T05:32:38.38Z"
+              "WhenOpened": "2025-01-26T05:32:38.38Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "SlotMachineRequest.cs",
-              "DocumentMoniker": "E:\\Projects\\BlazerSoft-SlotMachine\\SlotMachineRequest.cs",
+              "DocumentMoniker": "E:\\Projects\\BlazerSoft\\BlazerSoft-SlotMachine\\SlotMachineRequest.cs",
               "RelativeDocumentMoniker": "SlotMachineRequest.cs",
-              "ToolTip": "E:\\Projects\\BlazerSoft-SlotMachine\\SlotMachineRequest.cs",
+              "ToolTip": "E:\\Projects\\BlazerSoft\\BlazerSoft-SlotMachine\\SlotMachineRequest.cs",
               "RelativeToolTip": "SlotMachineRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T04:13:35.384Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SlotMachineController.cs",
-              "DocumentMoniker": "E:\\Projects\\BlazerSoft-SlotMachine\\Controllers\\SlotMachineController.cs",
-              "RelativeDocumentMoniker": "Controllers\\SlotMachineController.cs",
-              "ToolTip": "E:\\Projects\\BlazerSoft-SlotMachine\\Controllers\\SlotMachineController.cs",
-              "RelativeToolTip": "Controllers\\SlotMachineController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T03:40:40.056Z"
+              "WhenOpened": "2025-01-26T04:13:35.384Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "E:\\Projects\\BlazerSoft-SlotMachine\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
-              "ToolTip": "E:\\Projects\\BlazerSoft-SlotMachine\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "ConfigurationRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\BlazerSoft\\BlazerSoft-SlotMachine\\BlazerSoft-SlotMachine-Infrastructure\\ConfigurationRepository.cs",
+              "RelativeDocumentMoniker": "BlazerSoft-SlotMachine-Infrastructure\\ConfigurationRepository.cs",
+              "ToolTip": "E:\\Projects\\BlazerSoft\\BlazerSoft-SlotMachine\\BlazerSoft-SlotMachine-Infrastructure\\ConfigurationRepository.cs",
+              "RelativeToolTip": "BlazerSoft-SlotMachine-Infrastructure\\ConfigurationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T03:33:27.442Z"
+              "WhenOpened": "2025-01-27T05:00:59.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BlazerSoft-SlotMachine",
+              "DocumentMoniker": "E:\\Projects\\BlazerSoft\\BlazerSoft-SlotMachine\\BlazerSoft-SlotMachine.csproj",
+              "RelativeDocumentMoniker": "BlazerSoft-SlotMachine.csproj",
+              "ToolTip": "E:\\Projects\\BlazerSoft\\BlazerSoft-SlotMachine\\BlazerSoft-SlotMachine.csproj",
+              "RelativeToolTip": "BlazerSoft-SlotMachine.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-27T04:23:54.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConnectionSetting.cs",
+              "DocumentMoniker": "E:\\Projects\\BlazerSoft\\BlazerSoft-SlotMachine\\ConnectionSetting.cs",
+              "RelativeDocumentMoniker": "ConnectionSetting.cs",
+              "ToolTip": "E:\\Projects\\BlazerSoft\\BlazerSoft-SlotMachine\\ConnectionSetting.cs",
+              "RelativeToolTip": "ConnectionSetting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T05:07:34.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SlotMachineController.cs",
+              "DocumentMoniker": "E:\\Projects\\BlazerSoft\\BlazerSoft-SlotMachine\\Controllers\\SlotMachineController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SlotMachineController.cs",
+              "ToolTip": "E:\\Projects\\BlazerSoft\\BlazerSoft-SlotMachine\\Controllers\\SlotMachineController.cs",
+              "RelativeToolTip": "Controllers\\SlotMachineController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T03:40:40.056Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IConfigurationContext.cs",
+              "DocumentMoniker": "E:\\Projects\\BlazerSoft\\BlazerSoft-SlotMachine\\BlazerSoft-SlotMachine-Infrastructure\\Interfaces\\IConfigurationContext.cs",
+              "RelativeDocumentMoniker": "BlazerSoft-SlotMachine-Infrastructure\\Interfaces\\IConfigurationContext.cs",
+              "ToolTip": "E:\\Projects\\BlazerSoft\\BlazerSoft-SlotMachine\\BlazerSoft-SlotMachine-Infrastructure\\Interfaces\\IConfigurationContext.cs",
+              "RelativeToolTip": "BlazerSoft-SlotMachine-Infrastructure\\Interfaces\\IConfigurationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T06:18:12.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IConfigurationRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\BlazerSoft\\BlazerSoft-SlotMachine\\BlazerSoft-SlotMachine-Infrastructure\\Interfaces\\IConfigurationRepository.cs",
+              "RelativeDocumentMoniker": "BlazerSoft-SlotMachine-Infrastructure\\Interfaces\\IConfigurationRepository.cs",
+              "ToolTip": "E:\\Projects\\BlazerSoft\\BlazerSoft-SlotMachine\\BlazerSoft-SlotMachine-Infrastructure\\Interfaces\\IConfigurationRepository.cs",
+              "RelativeToolTip": "BlazerSoft-SlotMachine-Infrastructure\\Interfaces\\IConfigurationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T06:14:08.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerInfoRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\BlazerSoft\\BlazerSoft-SlotMachine\\BlazerSoft-SlotMachine-Infrastructure\\PlayerInfoRepository.cs",
+              "RelativeDocumentMoniker": "BlazerSoft-SlotMachine-Infrastructure\\PlayerInfoRepository.cs",
+              "ToolTip": "E:\\Projects\\BlazerSoft\\BlazerSoft-SlotMachine\\BlazerSoft-SlotMachine-Infrastructure\\PlayerInfoRepository.cs",
+              "RelativeToolTip": "BlazerSoft-SlotMachine-Infrastructure\\PlayerInfoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T04:59:16.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerInfoContext.cs",
+              "DocumentMoniker": "E:\\Projects\\BlazerSoft\\BlazerSoft-SlotMachine\\BlazerSoft-SlotMachine-Infrastructure\\PlayerInfoContext.cs",
+              "RelativeDocumentMoniker": "BlazerSoft-SlotMachine-Infrastructure\\PlayerInfoContext.cs",
+              "ToolTip": "E:\\Projects\\BlazerSoft\\BlazerSoft-SlotMachine\\BlazerSoft-SlotMachine-Infrastructure\\PlayerInfoContext.cs",
+              "RelativeToolTip": "BlazerSoft-SlotMachine-Infrastructure\\PlayerInfoContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T05:32:18.651Z",
+              "EditorCaption": ""
             }
           ]
         }

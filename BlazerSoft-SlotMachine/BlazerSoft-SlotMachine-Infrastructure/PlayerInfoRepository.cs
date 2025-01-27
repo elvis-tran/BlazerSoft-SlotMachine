@@ -1,46 +1,40 @@
 ﻿namespace BlazerSoft_SlotMachine_Infrastructure
 {
-    using MongoDB.Driver;
+    using BlazerSoft_SlotMachine.BlazerSoft_SlotMachine_Infrastructure.Interfaces;
+    using BlazerSoft_SlotMachine.Models;
     using System.Collections.Generic;
+    using System.Threading.Tasks;
 
-    public class PlayerInfoRepository<T>: IRepository<T> where T : class
+    public class PlayerInfoRepository : IPlayerInfoRepository
     {
-        //
-        MongoClient dbclient = new MongoClient("mongodb+srv://elvistrann7:u0mdpkyK6KSNRvjI@cluster0.gy218.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0");
-
-        public void Add(T entity)
+        private readonly IPlayerInfoContext _playerInfoContext;
+        PlayerInfoRepository(IPlayerInfoContext playerInfoContext)
         {
-            throw new NotImplementedException();
+            _playerInfoContext = playerInfoContext;
+        }
+        public async Task<PlayerInfo> Create(PlayerInfo playerInfo)
+        {
+            return await _playerInfoContext.Create(playerInfo);
         }
 
-        public void Delete(T entity)
+        public Task<bool> Delete(PlayerInfo playerInfo)
         {
-            throw new NotImplementedException();
+            return _playerInfoContext.Delete(playerInfo);   
+        }
+        
+        public Task<IEnumerable<PlayerInfo>> GetAll()
+        {
+            return (Task<IEnumerable<PlayerInfo>>)_playerInfoContext.players;
         }
 
-        public IEnumerable<T> GetAll()
+        public async Task<PlayerInfo> GetPlayer(string playerName)
         {
-            throw new NotImplementedException();
+            return await _playerInfoContext.GetPlayerInfoAsync(playerName);
         }
 
-        public T GetById(int id)
+        public async Task<bool> UpdatePlayer(PlayerInfo playerInfo)
         {
-            throw new NotImplementedException();
-        }
-
-        public void Update(T entity)
-        {
-            throw new NotImplementedException();
-        }
-
-        public void GetPlayerById(int id)
-        {
-
-        }
-
-        public int AddNewPlayer()
-        {
-            return 0;
+            return await _playerInfoContext.UpdatePlayerInfo(playerInfo);
         }
     }
 }
