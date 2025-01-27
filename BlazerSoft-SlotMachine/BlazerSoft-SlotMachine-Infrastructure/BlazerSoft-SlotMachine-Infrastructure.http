@@ -1,0 +1,6 @@
+@BlazerSoft_SlotMachine_Infrastructure_HostAddress = http://localhost:5031
+
+GET {{BlazerSoft_SlotMachine_Infrastructure_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
